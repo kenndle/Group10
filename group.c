@@ -9,7 +9,7 @@
 
 void member4(void) {
 printf("Name: Kenndle Sierer");
-
+printf("Year in School: Sophmore");
 }
 
 int main(void)
