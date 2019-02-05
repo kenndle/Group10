@@ -10,6 +10,8 @@
 void member4(void) {
 printf("Name: Kenndle Sierer");
 printf("Year in School: Sophmore");
+printf("Major: Computer Science");
+printf("Hobbies: Painting, playing basketball, hiking");
 }
 
 int main(void)
